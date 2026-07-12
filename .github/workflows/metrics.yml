@@ -21,6 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}   # 用 PAT 推回 main, 绕过 GITHUB_TOKEN 默认分支保护
           filename: dist/metrics.svg
           # 基础模块: 头部摘要 + 活动 + 社区 + 仓库 + 元数据
           base: header, activity, community, repositories, metadata
