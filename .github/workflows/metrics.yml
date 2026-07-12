@@ -1,0 +1,39 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 每天 UTC 00:30 (北京时间 08:30)
+  workflow_dispatch:         # 允许在 Actions 页面手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/metrics.yml"
+
+permissions:
+  contents: write            # 允许 metrics 把 SVG 提交回 main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📊 Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: dist/metrics.svg
+          # 基础模块: 头部摘要 + 活动 + 社区 + 仓库 + 元数据
+          base: header, activity, community, repositories, metadata
+          # 语言统计插件 (按字节计算 + 百分比细节)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          # 编码习惯插件 (factoids + 图表 + 裁剪小语种)
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          # 关注的 issue/PR 跟进
+          plugin_followup: yes
+          # 输出排版
+          config_output: svg

@@ -1,0 +1,182 @@
+<div align="center">
+
+<!-- Hero -->
+<h1>Hi 👋, I'm Zelin Zhou</h1>
+<p><strong>你好，我是周泽林</strong></p>
+
+<!-- Typing SVG (animated bilingual tagline) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?lines=Building+AI+agents+for+education;Exploring+LLMs+%26+symbolic+reasoning;数理+·+材料+dual+degree&font=Fira+Code&weight=600&center=true&width=560&height=110&color=6F42C1&pause=800&duration=3500" alt="AI agents for education, LLMs and symbolic reasoning, dual degree in math and materials" />
+</a>
+
+<!-- Tagline -->
+<p>
+  🎓 Undergraduate @ <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a><br/>
+  🔬 Dual degree: <b>数理基础科学 + 材料科学与工程</b><br/>
+  🧪 Focus: <b>AI for Materials — representations, literature mining, data analysis</b>
+</p>
+
+</div>
+
+---
+
+<!-- Research Focus -->
+## 🔬 研究方向 · Research Focus
+
+AI4Materials — 用机器学习做材料科学的表征学习、文献知识挖掘与实验数据分析。
+On the side, I build AI agents & developer tools as hands-on experiments (see projects below).
+
+---
+
+<!-- Stats row -->
+<div align="center">
+
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=ZelinZhou-THU&label=Profile+Views&color=6F42C1&style=flat-square" alt="Profile Views" />
+
+<br/><br/>
+
+<!-- Streak stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=ZelinZhou-THU&theme=neutral&hide_border=true&background=00000000&card_width=480&locale=zh_Hans" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+<!-- Stats card + Top languages side by side -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="top" src="https://github-readme-stats.vercel.app/api?username=ZelinZhou-THU&show_icons=true&hide_border=true&bg_color=00000000&title_color=6F42C1&icon_color=6F42C1&text_color=586069&count_private=true" alt="ZelinZhou-THU's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZelinZhou-THU&layout=compact&hide_border=true&bg_color=00000000&title_color=6F42C1&text_color=586069&card_width=320" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<!-- Trophy grid -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ZelinZhou-THU&theme=algolia&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8" alt="Trophies" />
+</a>
+
+</div>
+
+---
+<!-- About -->
+## 🧑‍💻 关于我 · About Me
+
+- 🌱 **Currently exploring** · 正在探索：表征分析 / 文献挖掘 / 材料数据分析；辅以 LLM agent 做科研自动化
+- 💬 **Ask me about** · 欢迎交流：Python, AI4Materials, 实验性 agent/skill 实践
+- 🛠️ **Daily drivers** · 日常工具：OpenCode, Obsidian
+- 📫 **Reach me** · 联系方式：[zhou-zl23@mails.tsinghua.edu.cn](mailto:zhou-zl23@mails.tsinghua.edu.cn)
+- 😄 **Pronouns** · 代词：He/Him
+- ⚡ **Fun fact** · 趣事：Builds AI study tools — partly to study better, mostly to avoid studying. 造了个 AI 学习工具，一半是为了学得更好，一半是为了不学习。
+
+---
+
+<!-- Featured Projects -->
+## 🧪 实验性项目 · Experiments & Side Projects
+
+<sub>以下仓库是我的个人兴趣探索 —— AI agent 与开发者工具的练手实现。</sub>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ZelinZhou-THU/stem-tutor-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=stem-tutor-agent&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="stem-tutor-agent pinned repository card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ZelinZhou-THU/lecture-notes-creator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=lecture-notes-creator&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="lecture-notes-creator pinned repository card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ZelinZhou-THU/opencode-mem-mimo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=opencode-mem-mimo&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="opencode-mem-mimo pinned repository card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ZelinZhou-THU/thu-calendar-sync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=thu-calendar-sync&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="thu-calendar-sync pinned repository card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <a href="https://github.com/ZelinZhou-THU/autonomous-feature-developer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=autonomous-feature-developer&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="autonomous-feature-developer pinned repository card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+<!-- Metrics (auto-generated by .github/workflows/metrics.yml) -->
+## 📊 GitHub 活跃度 · Activity Metrics
+
+<p align="center">
+  <img src="./dist/metrics.svg" alt="Metrics" width="95%" />
+</p>
+
+<sub>↻ 由 GitHub Action 每日自动刷新 · Auto-refreshed daily by a GitHub Action</sub>
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ 技术栈 · Tech Stack
+
+<div align="center">
+
+**Languages** · 语言
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<br/>
+**AI / ML** · 人工智能
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SymPy](https://img.shields.io/badge/SymPy-77B91E?style=flat-square&logo=sympy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
+
+**Tools & Platforms** · 工具与平台
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+<!-- Snake (auto-generated by .github/workflows/snake.yml, served from output branch) -->
+## 🐍 贡献蛇 · Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZelinZhou-THU/ZelinZhou-THU/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZelinZhou-THU/ZelinZhou-THU/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ZelinZhou-THU/ZelinZhou-THU/output/github-snake.svg" width="95%" />
+</picture>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+<sub>⭐ From <a href="https://github.com/ZelinZhou-THU">ZelinZhou-THU</a> · Built with ❤️ and too much ☕</sub>
+
+<br/>
+
+<sub><i>"The best way to learn is to build something you'd be embarrassed to delete."</i><br/>
+最好的学习方式，就是去造点你自己都舍不得删的东西。</sub>
+
+</div>
