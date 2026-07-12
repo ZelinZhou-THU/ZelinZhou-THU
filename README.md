@@ -82,8 +82,6 @@ Hands-on explorations in AI agents & tools.
   <img src="./dist/metrics.svg" alt="Metrics" width="70%" />
 </p>
 
-↻ 由 GitHub Action 每日自动刷新 · Auto-refreshed daily by a GitHub Action
-
 ---
 
 <!-- Footer -->
