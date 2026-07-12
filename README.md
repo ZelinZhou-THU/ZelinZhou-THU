@@ -36,11 +36,10 @@ On the side, I build agents, skills and developer tools.
 <div align="center">
 
 <!-- Profile views + Streak stats (side-by-side) -->
-<table align="center" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" valign="middle"><img src="https://komarev.com/ghpvc/?username=ZelinZhou-THU&label=Profile+Views&color=6F42C1&style=for-the-badge" height="28" alt="Profile Views" /></td>
-    <td align="center" valign="middle">&nbsp;&nbsp;&nbsp;</td>
-    <td align="center" valign="middle"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZelinZhou-THU&theme=neutral&hide_border=true&background=00000000&card_width=480&locale=zh_Hans" alt="GitHub Streak" /></a></td>
+    <td align="center" valign="middle" style="padding: 0 8px;"><img src="https://komarev.com/ghpvc/?username=ZelinZhou-THU&label=Profile+Views&color=6F42C1&style=for-the-badge" height="28" alt="Profile Views" /></td>
+    <td align="center" valign="middle" style="padding: 0 8px;"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ZelinZhou-THU&theme=neutral&hide_border=true&background=00000000&card_width=480&locale=zh_Hans" alt="GitHub Streak" /></a></td>
   </tr>
 </table>
 </div>
@@ -61,7 +60,9 @@ On the side, I build agents, skills and developer tools.
 <!-- Featured Projects -->
 ## 🧪 实验性项目 · Experiments & Side Projects
 
-以下仓库是我的个人兴趣探索 —— AI agent / 工具的实现。· Hands-on explorations in AI agents & tools.
+以下仓库是我的个人兴趣探索 —— AI agent / 工具的实现。
+
+Hands-on explorations in AI agents & tools.
 
 | 项目 | 简介 |
 |---|---|
