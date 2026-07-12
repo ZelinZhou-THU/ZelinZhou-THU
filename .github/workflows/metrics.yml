@@ -28,11 +28,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          # 编码习惯插件 (factoids + 图表 + 裁剪小语种)
+          # 编码习惯插件 (factoids; charts/trim dropped: caused "Unexpected error")
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
           # 关注的 issue/PR 跟进
           plugin_followup: yes
           # 输出排版

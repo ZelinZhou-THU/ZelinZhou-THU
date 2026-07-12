@@ -6,7 +6,7 @@
 
 <!-- Typing SVG (animated bilingual tagline) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?lines=Building+AI+agents+for+education;Exploring+LLMs+%26+symbolic+reasoning;数理+·+材料+dual+degree&font=Fira+Code&weight=600&center=true&width=560&height=110&color=6F42C1&pause=800&duration=3500" alt="AI agents for education, LLMs and symbolic reasoning, dual degree in math and materials" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Building+AI+agents+for+education;Exploring+LLMs+%26+symbolic+reasoning;%E6%95%B0%E7%90%86+%C2%B7+%E6%9D%90%E6%96%99+dual+degree&font=Fira+Code&weight=600&center=true&width=560&height=110&color=6F42C1&pause=800&duration=3500" alt="AI agents for education, LLMs and symbolic reasoning, dual degree in math and materials" />
 </a>
 
 <!-- Tagline -->
@@ -41,23 +41,15 @@ On the side, I build AI agents & developer tools as hands-on experiments (see pr
   <img src="https://streak-stats.demolab.com?user=ZelinZhou-THU&theme=neutral&hide_border=true&background=00000000&card_width=480&locale=zh_Hans" alt="GitHub Streak" />
 </a>
 
-<br/><br/>
-<!-- Stats card + Top languages side by side -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="top" src="https://github-readme-stats.vercel.app/api?username=ZelinZhou-THU&show_icons=true&hide_border=true&bg_color=00000000&title_color=6F42C1&icon_color=6F42C1&text_color=586069&count_private=true" alt="ZelinZhou-THU's GitHub Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZelinZhou-THU&layout=compact&hide_border=true&bg_color=00000000&title_color=6F42C1&text_color=586069&card_width=320" alt="Top Languages" />
-</a>
-
-<br/><br/>
-
-<!-- Trophy grid -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=ZelinZhou-THU&theme=algolia&no-frame=true&no-bg=true&column=5&margin-w=8&margin-h=8" alt="Trophies" />
-</a>
-
 </div>
+
+---
+
+<!-- Stats card + Top languages + Trophy grid removed:
+     upstream vercel.app instances currently return 503/402.
+     See "Experimental Projects" below for the static replacement. -->
+
+---
 
 ---
 <!-- About -->
@@ -75,48 +67,24 @@ On the side, I build AI agents & developer tools as hands-on experiments (see pr
 <!-- Featured Projects -->
 ## 🧪 实验性项目 · Experiments & Side Projects
 
-<sub>以下仓库是我的个人兴趣探索 —— AI agent 与开发者工具的练手实现。</sub>
+<sub>以下仓库是我的个人兴趣探索 —— OpenCode 生态下 AI agent / skill / 工具的练手实现。</sub>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZelinZhou-THU/stem-tutor-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=stem-tutor-agent&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="stem-tutor-agent pinned repository card" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZelinZhou-THU/lecture-notes-creator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=lecture-notes-creator&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="lecture-notes-creator pinned repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZelinZhou-THU/opencode-mem-mimo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=opencode-mem-mimo&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="opencode-mem-mimo pinned repository card" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ZelinZhou-THU/thu-calendar-sync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=thu-calendar-sync&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="thu-calendar-sync pinned repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" align="center">
-      <a href="https://github.com/ZelinZhou-THU/autonomous-feature-developer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZelinZhou-THU&repo=autonomous-feature-developer&hide_border=true&bg_color=00000000&title_color=6F42C1" alt="autonomous-feature-developer pinned repository card" />
-      </a>
-    </td>
-  </tr>
-</table>
+| 项目 | 简介 |
+|---|---|
+| 🧮 [stem-tutor-agent](https://github.com/ZelinZhou-THU/stem-tutor-agent) | AI 数学/物理逐步验证（SymPy 符号推理） |
+| 📚 [lecture-notes-creator](https://github.com/ZelinZhou-THU/lecture-notes-creator) | PDF → 结构化讲义生成器（MinerU 提取 + 7 维度 AI review）— OpenCode skill |
+| 🧠 [opencode-mem-mimo](https://github.com/ZelinZhou-THU/opencode-mem-mimo) | OpenCode 持久化记忆插件（FTS5 全文检索 + Markdown 双存储） |
+| 📅 [thu-calendar-sync](https://github.com/ZelinZhou-THU/thu-calendar-sync) | 清华课表 → 日历同步（SM2 加密 + ICS 导出） |
+| 🤖 [autonomous-feature-developer](https://github.com/ZelinZhou-THU/autonomous-feature-developer) | OpenCode 自主 WebApp 功能开发技能 |
+
+<sub>📌 真实项目（5/8 个）— 完整列表见 [Repositories tab](https://github.com/ZelinZhou-THU?tab=repositories)</sub>
 
 ---
 <!-- Metrics (auto-generated by .github/workflows/metrics.yml) -->
 ## 📊 GitHub 活跃度 · Activity Metrics
 
 <p align="center">
-  <img src="./dist/metrics.svg" alt="Metrics" width="95%" />
+  <img src="./dist/metrics.svg" alt="Metrics" width="70%" />
 </p>
 
 <sub>↻ 由 GitHub Action 每日自动刷新 · Auto-refreshed daily by a GitHub Action</sub>
@@ -135,15 +103,12 @@ On the side, I build AI agents & developer tools as hands-on experiments (see pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<br/>
 **AI / ML** · 人工智能
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![SymPy](https://img.shields.io/badge/SymPy-77B91E?style=flat-square&logo=sympy&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
-
-<br/>
 
 **Tools & Platforms** · 工具与平台
 
