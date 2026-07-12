@@ -6,14 +6,15 @@
 
 <!-- Typing SVG (animated bilingual tagline) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?lines=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0+%C2%B7+%E8%A1%A8%E5%BE%81+%C2%B7+%E6%96%87%E7%8C%AE+%C2%B7+%E6%95%B0%E6%8D%AE;Building+OpenCode+agents+%26+skills;%E6%B8%85%E5%8D%8E+%E5%8F%8C%E5%AD%A6%E4%BD%8D&font=Fira+Code&weight=600&center=true&width=560&height=110&color=6F42C1&pause=800&duration=3500" alt="机器学习 · 表征 · 文献 · 数据 — Building OpenCode agents & skills — 清华双学位" />
+  <img src="https://readme-typing-svg.demolab.com?lines=AI4Materials+%C2%B7+%E8%A1%A8%E5%BE%81+%C2%B7+%E6%96%87%E7%8C%AE+%C2%B7+%E6%95%B0%E6%8D%AE;agents+%26+developer+tools+%C2%B7+%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8E%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7;%E6%B8%85%E5%8D%8E%E5%8F%8C%E5%AD%A6%E4%BD%8D%E6%9C%AC%E7%A7%91%E7%94%9F+%C2%B7+Tsinghua+dual-degree+undergrad&font=Fira+Code&weight=600&center=true&width=620&height=110&color=6F42C1&pause=800&duration=3500" alt="AI4Materials · 表征·文献·数据 — agents & developer tools · 智能体与开发工具 — 清华双学位本科生 · Tsinghua dual-degree undergrad" />
 </a>
 
 <!-- Tagline -->
+
 <p>
-  🎓 Undergraduate @ <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a><br/>
+  🎓 <a href="https://www.tsinghua.edu.cn/en/">清华大学本科生 · Undergraduate @ Tsinghua University</a><br/>
   🔬 Dual degree: <b>数理基础科学 + 材料科学与工程</b> · <i>Mathematics & Physics + Materials Science & Engineering</i><br/>
-  🧪 Focus: <b>AI for Materials — representations, literature mining, data analysis</b>
+  🧪 方向：<b>AI for Materials — 表征·文献·数据分析</b> · <i>Focus: representations · literature mining · data analysis</i>
 </p>
 
 </div>
@@ -23,11 +24,11 @@
 <!-- Research Focus -->
 ## 🔬 研究方向 · Research Focus
 
-AI4Materials — 用机器学习做材料科学的表征学习、文献知识挖掘与实验数据分析。
-AI4Materials — applying ML to materials: representation learning, literature mining, and experimental data analysis.
+AI4Materials — 用人工智能做材料科学的表征学习、文献知识挖掘与实验数据分析。
+AI4Materials — applying AI to materials: representation learning, literature mining, and experimental data analysis.
 
-主业之外，我也会写一些 OpenCode agent / skill / 工具当作练手实验。
-On the side, I build OpenCode agents and developer tools as hands-on experiments.
+主业之外，我也会写一些 agent / skill / 开发工具。
+On the side, I build agents, skills and developer tools.
 
 ---
 
@@ -54,14 +55,13 @@ On the side, I build OpenCode agents and developer tools as hands-on experiments
 - 🛠️ **Daily drivers** · 日常工具：OpenCode, Obsidian
 - 📫 **Reach me** · 联系方式：[zhou-zl23@mails.tsinghua.edu.cn](mailto:zhou-zl23@mails.tsinghua.edu.cn)
 - 😄 **Pronouns** · 代词：He/Him
-- ⚡ **Fun fact** · 趣事：Builds AI study tools — partly to study better, mostly to avoid studying. 造了个 AI 学习工具，一半是为了学得更好，一半是为了不学习。
 
 ---
 
 <!-- Featured Projects -->
 ## 🧪 实验性项目 · Experiments & Side Projects
 
-以下仓库是我的个人兴趣探索 —— OpenCode 生态下 AI agent / skill / 工具的练手实现。
+以下仓库是我的个人兴趣探索 —— AI agent / 工具的实现。· Hands-on explorations in AI agents & tools.
 
 | 项目 | 简介 |
 |---|---|
@@ -85,39 +85,6 @@ On the side, I build OpenCode agents and developer tools as hands-on experiments
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ 技术栈 · Tech Stack
-
-<div align="center">
-
-**Languages** · 语言
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML** · 人工智能
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SymPy](https://img.shields.io/badge/SymPy-77B91E?style=flat-square&logo=sympy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Tools & Platforms** · 工具与平台
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
 <!-- Footer -->
 <div align="center">
 
@@ -126,6 +93,6 @@ On the side, I build OpenCode agents and developer tools as hands-on experiments
 <br/>
 
 <i>"The best way to learn is to build something you'd be embarrassed to delete."</i><br/>
-最好的学习方式，就是去造点你自己都舍不得删的东西。
+最好的学习方式，就是去造点自己都舍不得删的东西。
 
 </div>
